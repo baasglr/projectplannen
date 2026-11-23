@@ -269,6 +269,15 @@ Zo maken we het veilig:
 ### Zo gaan we testen
 
 - **Wanneer:** in twee rondes. Eerst met de wireframes in Figma, daarna met de werkende versie. Na elke ronde passen we het ontwerp aan.
+- **Prototype:** het klikbare Figma-prototype voor ronde 1 staat klaar: [open het Figma-bestand](https://www.figma.com/design/M693Jxfk1pl4hLXB6hPwkX). Zo gebruik je het:
+  1. Kies in Figma **Duplicate** (of **Duplicate to your drafts**). Nu heb je je eigen kopie.
+  2. Klik rechtsboven op **Present (▶)** en kies linksboven de flow die je wilt testen:
+     - **Model: aanmelden** begint bij het scherm "Aanmelden als model (na QR-code)".
+     - **Fotograaf: model zoeken** begint bij het scherm "Inloggen (iedereen)".
+     - **Docent: aanmeldingen controleren** begint bij het scherm "Goedkeuren (docent)".
+     - **Model: profiel beheren** begint bij het scherm "Mijn profiel (model)".
+  3. Wil je op een telefoon testen? Klik op **Share prototype** en open de link op de telefoon.
+  4. Typen in invulvelden werkt niet in een Figma-prototype. Vertel je testpersoon dat de velden al ingevuld zijn.
 - **Wie:** 6 testpersonen per ronde: 2 modellen, 3 fotografiestudenten en 1 docent. Geen groepsleden.
 - **Hoe:** ze doen de taken op hun eigen telefoon of laptop. Wij kijken mee, zeggen niets en schrijven op wat er gebeurt.
 

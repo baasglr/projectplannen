@@ -246,6 +246,12 @@ Waarom? 20 van de 31 mensen willen geen extra app installeren (I4, eis E3). Een 
 ### Zo gaan we testen
 
 - **Wanneer:** in twee rondes. Eerst met de wireframes in Figma, daarna met de werkende versie. Na elke ronde passen we het ontwerp aan.
+- **Prototype:** het klikbare Figma-prototype voor ronde 1 staat klaar: [open het Figma-bestand](https://www.figma.com/design/2VnOt8mhMZWALkqzs0IG00). Zo gebruik je het:
+  1. Kies in Figma **Duplicate** (of **Duplicate to your drafts**). Nu heb je je eigen kopie.
+  2. Klik rechtsboven op **Present (▶)** en kies linksboven de flow die je wilt testen:
+     - **Een gerecht bestellen** begint bij het scherm "Menu".
+  3. Wil je op een telefoon testen? Klik op **Share prototype** en open de link op de telefoon.
+  4. Typen in invulvelden werkt niet in een Figma-prototype. Vertel je testpersoon dat de velden al ingevuld zijn.
 - **Wie:** 5 testpersonen per ronde. Geen groepsleden. We kiezen 2 ramenfans en 3 nieuwe klanten, net als onze persona's.
 - **Hoe:** ze gebruiken het prototype op hun eigen telefoon. Wij kijken mee, zeggen niets en schrijven op wat er gebeurt.
 

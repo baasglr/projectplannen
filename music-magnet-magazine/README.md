@@ -244,6 +244,13 @@ Waarom? 39 van de 42 jongeren gebruiken het op de telefoon, maar ze willen het t
 ### Zo gaan we testen
 
 - **Wanneer:** in twee rondes. Eerst met de wireframes in Figma, daarna met de werkende versie. Na elke ronde passen we het ontwerp aan.
+- **Prototype:** het klikbare Figma-prototype voor ronde 1 staat klaar: [open het Figma-bestand](https://www.figma.com/design/zBHpqHIOHlG2kSoscij3tk). Zo gebruik je het:
+  1. Kies in Figma **Duplicate** (of **Duplicate to your drafts**). Nu heb je je eigen kopie.
+  2. Klik rechtsboven op **Present (▶)** en kies linksboven de flow die je wilt testen:
+     - **Muziek ontdekken** begint bij het scherm "Start: kies een genre".
+     - **Festival voorbereiden** begint bij het scherm "Kanaal: hiphop".
+  3. Wil je op een telefoon testen? Klik op **Share prototype** en open de link op de telefoon.
+  4. Typen in invulvelden werkt niet in een Figma-prototype. Vertel je testpersoon dat de velden al ingevuld zijn.
 - **Wie:** 5 jongeren tussen 14 en 25 per ronde. Geen groepsleden. Minstens één festivalganger.
 - **Hoe:** ze gebruiken het prototype op hun eigen telefoon. Eén taak doen ze op een laptop. Wij kijken mee, zeggen niets en schrijven op wat er gebeurt.
 
