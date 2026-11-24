@@ -6,8 +6,6 @@
 | Opdrachtgever | GLR Fotografie |
 | Team | Groep 2 |
 
-> **Let op:** dit is een voorbeeldplan. De namen en het onderzoek zijn verzonnen om te laten zien hoe een goed plan eruitziet.
-
 In dit plan geven we elk inzicht, elke eis en elke test een code (zoals **I1**, **E1**, **T1**). Zo kun je zien waar iets vandaan komt.
 
 ---
