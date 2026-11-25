@@ -281,7 +281,15 @@ Waarom?
 ### Zo gaan we testen
 
 - **Wanneer:** in twee rondes. Eerst in **Week 2** met jullie eigen klikbare Figma-prototype (Ronde 1), en daarna in **Week 7** met de werkende webapp live op de GLR Plesk-server (Ronde 2). Na elke ronde verwerken jullie de bevindingen in het ontwerp of de code.
-- **Prototype (Ronde 1):** *Voeg hier in Week 2 de deellink naar jullie eigen Figma-prototype in* (`[open het Figma-bestand](...)`) en geef de testpersonen een korte instructie op hun eigen telefoon.
+- **Prototype (Ronde 1):** [open het Figma-bestand](https://www.figma.com/design/oTzTF0oYceJv66iA5ckJHR). Zo gebruik je het:
+  1. Kies in Figma **Duplicate** (of **Duplicate to your drafts**). Nu heb je je eigen kopie.
+  2. Klik rechtsboven op **Present (▶)** en kies linksboven de flow die je wilt testen:
+     - **Donateur: doneren** begint bij het scherm "Campagnepagina (donateur)".
+     - **Bezoeker: homepage** begint bij het scherm "Homepage (alle studenten)".
+     - **Student: profiel en donaties** begint bij het scherm "Inloggen (student en docent)".
+     - **Docent: profielen controleren** begint bij het scherm "Profielen controleren (docent)".
+  3. Wil je op een telefoon testen? Klik op **Share prototype** en open de link op de telefoon.
+  4. Typen in invulvelden werkt niet in een Figma-prototype. Vertel je testpersoon dat de velden al ingevuld zijn.
 - **Wie:** minimaal 5 testpersonen per ronde buiten het eigen projectteam (bijv. 3 muziekliefhebbers/studenten als bezoeker en 2 medestudenten/docenten in de rol van Baroeg-medewerker).
 - **Hoe:** bezoekers voeren de taken uit op hun eigen smartphone (of 375px device-weergave); de beheerderstaak mag op laptop of telefoon. Jullie kijken mee, geven geen hints en noteren waar gebruikers aarzelen of fouten maken in `/docs/testrapport.md`.
 
